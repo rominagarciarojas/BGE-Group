@@ -534,6 +534,7 @@ section {
 }
 
 #hero2 .hero2-content h2 {
+  font-family: "Raleway", sans-serif;
   color: #840404;
   margin-bottom: 30px;
   font-size: 64px;
@@ -541,6 +542,7 @@ section {
 }
 
 #hero2 .hero2-content h2 span {
+  font-family: "Raleway", sans-serif;
   color: black;
   text-decoration: underline;
 }
@@ -750,6 +752,7 @@ section {
 }
 
 #about .content h2 {
+  font-family: "Raleway", sans-serif;
   color: #840404;
   font-weight: 700;
   font-size: 36px;
@@ -757,6 +760,7 @@ section {
 }
 
 #about .content h3 {
+  font-family: "Raleway", sans-serif;
   color: #555;
   font-weight: 300;
   font-size: 18px;
